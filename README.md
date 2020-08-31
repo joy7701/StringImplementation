@@ -6,4 +6,4 @@ Features:
 - range-for loops support;
 - I/O stream support.
 
-Based on book "The C++ Programming language"
+Based on the book "The C++ Programming language."
